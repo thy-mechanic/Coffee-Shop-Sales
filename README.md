@@ -1,7 +1,7 @@
 # Coffee Shop Sales Dashboard
 
 A dynamic and interactive Excel dashboard designed to analyze sales data from a coffee shop chain. This project leverages Excel's advanced features like pivot tables, slicers, and charts to provide key business insights.
-
+   
 ---
 
 ## ✨ Key Features
